@@ -21,7 +21,9 @@ The app sends this context + your question to a local language model (like LLaMA
 
 🖥️ Demo Screenshot
 
-(Add a screenshot here if you'd like)
+<img width="1920" height="1020" alt="Screenshot 2025-10-03 194615" src="https://github.com/user-attachments/assets/fd3fa149-482a-4209-b103-263f19cbad3d" />
+
+
 
 📦 Project Structure
 financial-qa-app/
